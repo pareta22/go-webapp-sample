@@ -28,7 +28,7 @@ var staticFile embed.FS
 var propsFile embed.FS
 
 // @title go-webapp-sample API
-// @version 1.5.1
+// @version 1.5.2
 // @description This is API specification for go-webapp-sample project.
 
 // @license.name MIT
